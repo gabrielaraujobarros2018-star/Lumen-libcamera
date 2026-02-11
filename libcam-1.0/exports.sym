@@ -1,0 +1,13 @@
+{ 
+  global:
+    camera_*;
+    stream_*;
+    preview_*;
+    watchdog_*;
+    stabilizer_*;
+    warnings_*;
+    error_*;
+    perf_*;
+    mem_*;
+  local: *; 
+};
